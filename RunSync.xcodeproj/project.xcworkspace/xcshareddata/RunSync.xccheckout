@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8514D9CE-DB62-4D37-9AE2-9039CB9D6B71</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RunSync</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>01F3C55C61AF7049B66BE5676E863586A047C131</key>
+		<string>https://github.com/jmejiaa/RunSync.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RunSync.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>01F3C55C61AF7049B66BE5676E863586A047C131</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jmejiaa/RunSync.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>01F3C55C61AF7049B66BE5676E863586A047C131</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>01F3C55C61AF7049B66BE5676E863586A047C131</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RunSync</string>
+		</dict>
+	</array>
+</dict>
+</plist>
